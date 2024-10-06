@@ -15,7 +15,7 @@
 ```pip install -r requirements.txt```
 3. Создайте файл .env с переменными окружения:
 ```
-TOKEN = "your_token"
+TOKEN = "bots_token"
 HOST = your_ssh_host
 PORT = your_ssh_port
 USER = your_ssh_user
@@ -26,6 +26,6 @@ PASSWORD = your_ssh_password
 **Поиск информации в тексте и вывод ее**
 Информация, которую бот умеет выделять из текста: 
 * Email-адреса. 
-Команда: ```/find_email```
+Команда: ``` /find_email ```
 * Номера телефонов. 
-Команда: ```/find_phone_number```
+Команда: ``` /find_phone_number ```
