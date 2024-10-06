@@ -15,11 +15,11 @@
 ```pip install -r requirements.txt```
 3. Создайте файл .env с переменными окружения:
 ```
-* TOKEN = "your_token"
-* HOST = your_ssh_host
-* PORT = your_ssh_port
-* USER = your_ssh_user
-* PASSWORD = your_ssh_password
+TOKEN = "your_token"
+HOST = your_ssh_host
+PORT = your_ssh_port
+USER = your_ssh_user
+PASSWORD = your_ssh_password
 ```
 4. Запустите бота
 ## Использование
