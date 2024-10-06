@@ -13,12 +13,13 @@
 ```git clone https://github.com/kirillivanv/SysAdminBot.git ```
 2. Установите необходимые библиотеки:
 ```pip install -r requirements.txt```
-3. Создайте файл .env с переменными окружения:
-```* TOKEN = "your_token"
+3. Создайте файл .env с переменными окружения: ```
+* TOKEN = "your_token"
 * HOST = your_ssh_host
 * PORT = your_ssh_port
 * USER = your_ssh_user
-* PASSWORD = your_ssh_password```
+* PASSWORD = your_ssh_password
+```
 4. Запустите бота
 ## Использование
 **Поиск информации в тексте и вывод ее**
